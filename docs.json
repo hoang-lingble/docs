@@ -27,6 +27,21 @@
                 ]
               }
             ]
+          },
+          {
+            "product": "Momotaro Jeans",
+            "color": {
+              "light": "#1570a3",
+              "dark": "#1570a3"
+            },
+            "tabs": [
+              {
+                "tab": "UX Improvements",
+                "pages": [
+                  "japan-blue-jeans/ux-improvements-copied-1/homepage"
+                ]
+              }
+            ]
           }
         ]
       }
