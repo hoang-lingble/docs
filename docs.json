@@ -9,40 +9,23 @@
   },
   "favicon": "/images/5525ae8c03175ed119804a6274394e4c0f3c7794.png",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Our Services",
-          "icon": "book-open-cover",
-          "color": {
-            "light": "#1545a3",
-            "dark": "#1545a3"
-          },
-          "href": "https://www.lingble.com/services/"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "color": {
-            "light": "#154ca3",
-            "dark": "#154ca3"
-          },
-          "href": "https://www.lingble.com/blog/"
-        }
-      ]
-    },
-    "products": [
+    "dropdowns": [
       {
-        "product": "Japan Blue Jeans",
-        "color": {
-          "light": "#1570a3",
-          "dark": "#1570a3"
-        },
-        "tabs": [
+        "dropdown": "Partners",
+        "products": [
           {
-            "tab": "UX Improvements",
-            "pages": [
-              "japan-blue-jeans/ux-improvements/homepage"
+            "product": "Japan Blue Jeans",
+            "color": {
+              "light": "#1570a3",
+              "dark": "#1570a3"
+            },
+            "tabs": [
+              {
+                "tab": "UX Improvements",
+                "pages": [
+                  "japan-blue-jeans/ux-improvements/homepage"
+                ]
+              }
             ]
           }
         ]
