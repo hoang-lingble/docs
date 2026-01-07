@@ -1,25 +1,33 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Lingble Sample Doc",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1559a3",
+    "light": "#065ac9",
+    "dark": "#60d7e1"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/5525ae8c03175ed119804a6274394e4c0f3c7794.png",
   "navigation": {
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Our Services",
           "icon": "book-open-cover",
-          "href": "https://mintlify.com/docs"
+          "color": {
+            "light": "#1545a3",
+            "dark": "#1545a3"
+          },
+          "href": "https://www.lingble.com/services/"
         },
         {
           "anchor": "Blog",
           "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "color": {
+            "light": "#154ca3",
+            "dark": "#154ca3"
+          },
+          "href": "https://www.lingble.com/blog/"
         }
       ]
     },
@@ -29,20 +37,15 @@
         "color": {
           "light": "#1570a3",
           "dark": "#1570a3"
-        },
-        "href": "https://japanblue-jeans.com"
+        }
       }
     ]
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hoang@lingble.com"
       }
     ],
     "primary": {
@@ -65,9 +68,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://lingble.com"
     }
+  },
+  "appearance": {
+    "strict": true
   }
 }
