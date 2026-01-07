@@ -12,6 +12,7 @@
     "dropdowns": [
       {
         "dropdown": "Partners",
+        "hidden": true,
         "products": [
           {
             "product": "Japan Blue Jeans",
