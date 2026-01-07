@@ -37,6 +37,12 @@
             },
             "groups": [
               {
+                "group": "Technical Backlog",
+                "pages": [
+                  "partners/momotaro-jeans/bugs/untitled-page"
+                ]
+              },
+              {
                 "group": "UX Improvements",
                 "pages": [
                   "japan-blue-jeans/ux-improvements-copied-1/homepage"
