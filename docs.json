@@ -9,10 +9,13 @@
   },
   "favicon": "/images/5525ae8c03175ed119804a6274394e4c0f3c7794.png",
   "navigation": {
-    "dropdowns": [
+    "anchors": [
       {
-        "dropdown": "Partners",
-        "hidden": true,
+        "anchor": "Lingble",
+        "color": {
+          "light": "#156da3",
+          "dark": "#156da3"
+        },
         "products": [
           {
             "product": "Japan Blue Jeans",
