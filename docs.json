@@ -23,7 +23,7 @@
               {
                 "group": "UX Improvements",
                 "pages": [
-                  "japan-blue-jeans/ux-improvements/homepage"
+                  "lingble/japan-blue-jeans/ux-improvements/homepage"
                 ]
               }
             ]
@@ -37,12 +37,6 @@
                   "lingble/momotaro-jeans/technical-backlog/q1-2026"
                 ]
               },
-              {
-                "group": "UX Improvements",
-                "pages": [
-                  "japan-blue-jeans/ux-improvements-copied-1/homepage"
-                ]
-              }
             ]
           }
         ]
