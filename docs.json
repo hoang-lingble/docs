@@ -16,13 +16,9 @@
           "light": "#156da3",
           "dark": "#156da3"
         },
-        "products": [
+        "tabs": [
           {
-            "product": "Japan Blue Jeans",
-            "color": {
-              "light": "#1570a3",
-              "dark": "#1570a3"
-            },
+            "tab": "Japan Blue Jeans",
             "groups": [
               {
                 "group": "UX Improvements",
@@ -33,11 +29,7 @@
             ]
           },
           {
-            "product": "Momotaro Jeans",
-            "color": {
-              "light": "#1570a3",
-              "dark": "#1570a3"
-            },
+            "tab": "Momotaro Jeans",
             "groups": [
               {
                 "group": "Technical Backlog",
