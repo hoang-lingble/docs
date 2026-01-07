@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Lingble Sample Doc",
+  "name": "Lingble",
   "colors": {
     "primary": "#1559a3",
     "light": "#065ac9",
@@ -58,8 +58,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Go to Lingble Link",
+      "href": "https://ll3.link.lingble.com/"
     }
   },
   "contextual": {
